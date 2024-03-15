@@ -4,7 +4,6 @@ using System.Linq;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
@@ -26,7 +25,7 @@ namespace DumativaHeart.Core
 
         public Textbox(int width, Vector2 position, string text, int textSpeed, int textDuration)
         {
-            font = Game1.Self.Content.Load<SpriteFont>("OCR");
+            font =  Game1.Self.Content.Load<SpriteFont>("OCR");
             this.lastTime = Game1.currentTime;
             this.width = width;
             this.position = new Vector2(130, 140);

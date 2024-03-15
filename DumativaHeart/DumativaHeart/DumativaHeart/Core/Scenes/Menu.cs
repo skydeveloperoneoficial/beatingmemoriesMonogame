@@ -48,7 +48,7 @@ namespace DumativaHeart.Core.Scenes
                 if (contadorMenu > 1)
                 {
                     contadorMenu --;
-                    //SoundManager.PlaySoundEffect("button0"+ contadorMenu);               
+                    SoundManager.PlaySoundEffect("button0"+ contadorMenu);               
                 }
             }
 
@@ -57,7 +57,7 @@ namespace DumativaHeart.Core.Scenes
                 if (contadorMenu < 3)
                 {         
                     contadorMenu++;
-                    //SoundManager.PlaySoundEffect("button0" + contadorMenu);      
+                    SoundManager.PlaySoundEffect("button0" + contadorMenu);      
                 }
             }
 

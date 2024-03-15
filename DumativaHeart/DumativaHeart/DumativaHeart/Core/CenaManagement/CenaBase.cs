@@ -4,7 +4,6 @@ using System.Linq;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
@@ -189,10 +188,10 @@ namespace DumativaHeart.Core.CenaManagement
                 spriteBatch.Begin();
                 avisoReading.Draw(spriteBatch);
                 spriteBatch.End();
-            } 
+            }
 
-            Game1.Self.GraphicsDevice.SetRenderTarget(null);
-            Game1.Self.GraphicsDevice.Clear(Color.Black);
+                Game1.Self.GraphicsDevice.SetRenderTarget(null);
+                Game1.Self.GraphicsDevice.Clear(Color.Black);
 
             line.Draw(spriteBatch, backRender);
             caixaTexto.Draw(spriteBatch);

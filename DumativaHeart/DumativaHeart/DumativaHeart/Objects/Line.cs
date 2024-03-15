@@ -375,10 +375,10 @@ namespace DumativaHeart.Objects
             
             #region GaussianBlur
             Game1.Self.GraphicsDevice.SetRenderTarget(null);
-
+            //Subistitur  para o nome game
             Texture2D textura = gaussianBlur.PerformGaussianBlur(lineRenderTarget, renderTarget1, renderTarget2, spriteBatch);
-            
-            
+
+
             Game1.Self.GraphicsDevice.Clear(Color.Transparent);
             spriteBatch.Begin();
             spriteBatch.Draw(backtexture, Vector2.Zero, Color.White);

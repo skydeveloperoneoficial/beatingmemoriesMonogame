@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/downbeat.wav</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/escurecida.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/filtro vermelho.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/follow_your_heart.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/fundoControl.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/fundoGame.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/fundoGameOver.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/fundoMenu.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Heart.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/heart_bar.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/icon.ico</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/particulaLinha.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/reading.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Sfx/Button01.wav</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Sfx/Button02.wav</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Sfx/Button03.wav</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Sfx/Tap1.wav</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Sfx/Tap2.wav</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Songs/Caution Flow.mp3</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Songs/Coma.mp3</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Songs/Heart Chord.mp3</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Songs/Irregular Rhythm.mp3</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Songs/Lost Memories.mp3</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Songs/Memories.mp3</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/Songs/No Answer.mp3</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/tracinho.png</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/upbeat.wav</File>
+    <File>D:/GitHub/beatingmemoriesMonogame/DumativaHeart/DumativaHeart/DumativaHeart/Content/VideoIntro.wmv</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

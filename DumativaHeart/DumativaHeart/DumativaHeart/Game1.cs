@@ -1,22 +1,18 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Audio;
-using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
+﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using Microsoft.Xna.Framework.Media;
 using DumativaHeart.Core;
 using DumativaHeart.Core.SceneManagement;
+using System;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Media;
 
 namespace DumativaHeart
 {
     /// <summary>
-    /// This is the main type for your game
+    /// This is the main type for your game.
     /// </summary>
-    public class Game1 : Microsoft.Xna.Framework.Game
+    public class Game1: Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
@@ -25,17 +21,16 @@ namespace DumativaHeart
         public static TimeSpan currentTime;
 
         public Game1()
-        {   
+        {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             Self = this;
-            
+
             graphics.PreferredBackBufferWidth = 1024;
             graphics.PreferredBackBufferHeight = 768;
             graphics.ApplyChanges();
 
             GameRactangle = new Rectangle(0, 0, Window.ClientBounds.Width, Window.ClientBounds.Height);
-            
         }
 
         /// <summary>
@@ -47,7 +42,7 @@ namespace DumativaHeart
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            //Save.lerXml(0);
+
             base.Initialize();
         }
 
@@ -57,6 +52,8 @@ namespace DumativaHeart
         /// </summary>
         protected override void LoadContent()
         {
+            // Create a new SpriteBatch, which can be used to draw textures.
+            spriteBatch = new SpriteBatch(GraphicsDevice);
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
@@ -71,11 +68,12 @@ namespace DumativaHeart
 
 
             SceneManager.setScene(new Core.Scenes.Intro(), true);
+            // TODO: use this.Content to load your game content here
         }
 
         /// <summary>
         /// UnloadContent will be called once per game and is the place to unload
-        /// all content.
+        /// game-specific content.
         /// </summary>
         protected override void UnloadContent()
         {
@@ -89,12 +87,15 @@ namespace DumativaHeart
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
+            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
+                Exit();
             Controller.Update(gameTime);
             SoundManager.Update();
             SceneManager.update(gameTime);
 
             currentTime = gameTime.TotalGameTime;
             GC.Collect();
+            // TODO: Add your update logic here
 
             base.Update(gameTime);
         }
@@ -105,10 +106,12 @@ namespace DumativaHeart
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.Black);
-            
-            SceneManager.draw(spriteBatch, GraphicsDevice);
+            GraphicsDevice.Clear(Color.CornflowerBlue);
 
+            // TODO: Add your drawing code here
+            GraphicsDevice.Clear(Color.Black);
+
+            SceneManager.draw(spriteBatch, GraphicsDevice);
             base.Draw(gameTime);
         }
     }

@@ -1,10 +1,11 @@
-﻿using System;
+﻿//Modifique linha Para rodar monogame
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
+//using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
@@ -36,7 +37,7 @@ namespace DumativaHeart.Core
         static public string currentMusic;
 
         //Visualization Data
-        static private VisualizationData _visData = new VisualizationData();
+        //static private VisualizationData _visData = new VisualizationData();
 
         static public void AddMusic(String name, Song music)
         {
@@ -123,7 +124,7 @@ namespace DumativaHeart.Core
                 return;
 
             MediaPlayer.IsRepeating = repeating;
-            MediaPlayer.IsVisualizationEnabled = false;
+            //MediaPlayer.IsVisualizationEnabled = false;
 
             currentMusic = name;
 
@@ -151,13 +152,13 @@ namespace DumativaHeart.Core
         static public void Update()
         {
             validateMusicChange();
-            validateVisualizationData();
+            //validateVisualizationData();
         }
 
-        private static void validateVisualizationData()
-        {
-            MediaPlayer.GetVisualizationData(_visData);
-        }
+        //private static void validateVisualizationData()
+        //{
+        //    //MediaPlayer.GetVisualizationData(_visData);
+        //}
 
         private static void validateMusicChange()
         {
@@ -204,19 +205,19 @@ namespace DumativaHeart.Core
             }
         }
 
-        public static float MusicActivityBySample(float Amplifier = 0.5f)
-        {
+        //public static float MusicActivityBySample(float Amplifier = 0.5f)
+        //{
 
-            List<float> temp = SoundManager.MusicVisualizationData.Samples.ToList<float>();
+            //List<float> temp = SoundManager.MusicVisualizationData.Samples.ToList<float>();
 
-            for (int i = 0; i < temp.Count; i++)
-            {
-                if (temp[i] < 0)
-                    temp[i] *= -1;
-            }
+            //for (int i = 0; i < temp.Count; i++)
+            //{
+            //    if (temp[i] < 0)
+            //        temp[i] *= -1;
+            //}
 
-            return temp.Average() / Amplifier;
-        }
+            //return temp.Average() / Amplifier;
+        //}
 
 
         #region Gets & Sets
@@ -313,13 +314,13 @@ namespace DumativaHeart.Core
             }
         }
 
-        static public VisualizationData MusicVisualizationData
-        {
-            get
-            {
-                return _visData;
-            }
-        }
+        //static public VisualizationData MusicVisualizationData
+        //{
+        //    get
+        //    {
+        //        return _visData;
+        //    }
+        //}
         
         #endregion
 

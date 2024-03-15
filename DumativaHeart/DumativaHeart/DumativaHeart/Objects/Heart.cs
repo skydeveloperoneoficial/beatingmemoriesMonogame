@@ -213,7 +213,7 @@ namespace DumativaHeart.Objects
 
         public void SendPattern(HeartPattern pattern, int duration, GameTime gameTime)
         {
-            Line.Self.SendPattern(pattern, duration, gameTime);
+            //Line.Self.SendPattern(pattern, duration, gameTime);
             lastPattern = pattern;
         }
 

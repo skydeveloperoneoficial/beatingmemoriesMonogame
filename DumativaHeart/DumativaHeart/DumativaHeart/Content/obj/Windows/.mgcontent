@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/downbeat.wav</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/escurecida.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/filtro vermelho.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/follow_your_heart.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/fundoControl.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/fundoGame.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/fundoGameOver.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/fundoMenu.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Heart.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/heart_bar.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/icon.ico</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/particulaLinha.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/reading.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Sfx/Button01.wav</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Sfx/Button02.wav</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Sfx/Button03.wav</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Sfx/Tap1.wav</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Sfx/Tap2.wav</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Songs/Caution Flow.mp3</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Songs/Coma.mp3</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Songs/Heart Chord.mp3</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Songs/Irregular Rhythm.mp3</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Songs/Lost Memories.mp3</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Songs/Memories.mp3</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Songs/No Answer.mp3</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/tracinho.png</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/upbeat.wav</File>
+    <File>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/VideoIntro.wmv</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

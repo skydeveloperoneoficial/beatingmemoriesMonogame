@@ -4,7 +4,6 @@ using System.Linq;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
@@ -24,7 +23,7 @@ namespace DumativaHeart.Core.Scenes
         Objeto2D fundo,avisoReading, avisoFollow,filtro;
         Textbox caixaTexto;
         Heart heart;
-        Line line;
+        //Line line;
         SpriteFont font,fontDecisao;
 
         bool coracaoDesenhado,textoLido;
@@ -68,7 +67,7 @@ namespace DumativaHeart.Core.Scenes
             fundo.position.Y = Game1.Self.Window.ClientBounds.Height / 2;
 
             heart = new DumativaHeart.Objects.Heart();
-            line = new Line();
+            //line = new Line();
 
             contadorTentativa = 600;
             contadorNextTexto = 240;
@@ -91,7 +90,7 @@ namespace DumativaHeart.Core.Scenes
             if (Controller.KeyPressed(Keys.Space))
                 SceneManagement.SceneManager.setScene(new Scenes.PreviewScreen(), true);
 
-            line.Update(gameTime);
+            //line.Update(gameTime);
             if (coracaoDesenhado)
             {
                 heart.Update(gameTime);
@@ -323,7 +322,7 @@ namespace DumativaHeart.Core.Scenes
 
                     spriteBatch.End();
                     spriteBatch.Begin(SpriteSortMode.Immediate, BlendState.Additive);
-                    spriteBatch.Draw(Game1.Self.Content.Load<Texture2D>("filtro vermelho"),Vector2.Zero,Color.White*0.5f);
+                    spriteBatch.Draw(Game1.Self.Content.Load<Texture2D>("filtro vermelho"), Vector2.Zero, Color.White * 0.5f);
                     spriteBatch.End();
                     spriteBatch.Begin();
                 }
@@ -339,12 +338,12 @@ namespace DumativaHeart.Core.Scenes
             }
             spriteBatch.End();
 
-            
+
 
             Game1.Self.GraphicsDevice.SetRenderTarget(null);
             Game1.Self.GraphicsDevice.Clear(Color.Black);
 
-            line.Draw(spriteBatch, backRender);
+            //line.Draw(spriteBatch, backRender);
             caixaTexto.Draw(spriteBatch);
 
 
@@ -353,7 +352,7 @@ namespace DumativaHeart.Core.Scenes
 
         public override void terminate()
         {
-            line.lineList.Clear();
+            //line.lineList.Clear();
         }
     }
 }

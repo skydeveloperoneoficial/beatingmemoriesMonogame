@@ -1,0 +1,56 @@
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\downbeat.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\escurecida.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\filtro vermelho.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\follow_your_heart.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\fundoControl.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\fundoGame.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\fundoGameOver.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\fundoMenu.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Heart.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\heart_bar.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\icon.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\particulaLinha.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\reading.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\tracinho.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\upbeat.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\VideoIntro.wmv
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\VideoIntro.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Sfx\Button01.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Sfx\Button02.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Sfx\Button03.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Sfx\Tap1.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Sfx\Tap2.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Caution Flow.wma
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Caution Flow.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Coma.wma
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Coma.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Heart Chord.wma
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Heart Chord.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Irregular Rhythm.wma
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Irregular Rhythm.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Lost Memories.wma
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Lost Memories.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Memories.wma
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\Memories.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\No Answer.wma
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Content\Songs\No Answer.xnb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Game1.exe
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\Game1.pdb
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\obj\x86\Release\Game1.exe
+C:\Users\hans\Documents\visual studio 2012\Projects\Game1\Game1\obj\x86\Release\Game1.pdb

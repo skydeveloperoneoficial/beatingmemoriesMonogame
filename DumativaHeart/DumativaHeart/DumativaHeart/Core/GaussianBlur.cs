@@ -170,11 +170,11 @@ namespace DumativaHeart.Core
 
             try
             {
-                effect = game.Content.Load<Effect>(@"Effects\GaussianBlur");
+                //effect = game.Content.Load<Effect>(@"Effects\GaussianBlur");
             }
             catch (ContentLoadException)
             {
-                effect = game.Content.Load<Effect>("GaussianBlur");
+                //effect = game.Content.Load<Effect>("GaussianBlur");
             }
         }
 

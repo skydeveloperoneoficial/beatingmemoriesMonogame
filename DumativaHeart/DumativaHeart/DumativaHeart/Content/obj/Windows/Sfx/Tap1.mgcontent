@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/Sfx/Tap1.wav</SourceFile>
+  <SourceTime>2013-01-28T17:19:53-02:00</SourceTime>
+  <DestFile>C:/Users/hans/Documents/visual studio 2012/Projects/Game1/Game1/Content/bin/Windows/Sfx/Tap1.xnb</DestFile>
+  <DestTime>2024-03-14T22:53:32.9817358-03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T14:35:54-02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T14:35:54-02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

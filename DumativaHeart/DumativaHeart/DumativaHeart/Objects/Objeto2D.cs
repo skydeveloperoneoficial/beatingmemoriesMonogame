@@ -4,7 +4,7 @@ using System.Linq;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
+//using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
@@ -285,7 +285,9 @@ namespace DumativaHeart.Objects
 
                 if (showCollisionBounds)
                 {
+                    //Texture2D dummyTexture = new Texture2D(DumativaHeart.Self.GraphicsDevice, 1, 1);
                     Texture2D dummyTexture = new Texture2D(Game1.Self.GraphicsDevice, 1, 1);
+
                     dummyTexture.SetData(new Color[] { Color.White });
 
                     spriteBatch.Draw(dummyTexture, collisionBounds, Color.White * 0.3f);

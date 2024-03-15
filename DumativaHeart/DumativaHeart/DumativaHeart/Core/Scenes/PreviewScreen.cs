@@ -4,7 +4,6 @@ using System.Linq;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
@@ -28,7 +27,7 @@ namespace DumativaHeart.Core.Scenes
             delay = TimeSpan.FromSeconds(5d);
 
             //SoundManager.SetMusic("GameOverSong", true, false, false);
-            
+
             fundoGameOver = new Objeto2D(Game1.Self.Content.Load<Texture2D>("fundoGame"));
             fundoGameOver.position.X = Game1.Self.Window.ClientBounds.Width / 2;
             fundoGameOver.position.Y = Game1.Self.Window.ClientBounds.Height / 2;
