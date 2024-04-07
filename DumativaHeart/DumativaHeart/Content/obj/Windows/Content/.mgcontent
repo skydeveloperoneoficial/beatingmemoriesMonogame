@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/downbeat.wav</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/escurecida.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/filtro vermelho.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/follow_your_heart.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/fundoControl.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/fundoGame.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/fundoGameOver.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/fundoMenu.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Heart.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/heart_bar.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/icon.ico</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/particulaLinha.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/reading.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Sfx/Button01.wav</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Sfx/Button02.wav</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Sfx/Button03.wav</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Sfx/Tap1.wav</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Sfx/Tap2.wav</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Songs/Caution Flow.mp3</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Songs/Coma.mp3</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Songs/Heart Chord.mp3</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Songs/Irregular Rhythm.mp3</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Songs/Lost Memories.mp3</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Songs/Memories.mp3</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/Songs/No Answer.mp3</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/tracinho.png</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/upbeat.wav</File>
+    <File>C:/Users/hans/Documents/Visual Studio 2012/Projects/Game1/DumativaHeart/Content/VideoIntro.wmv</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

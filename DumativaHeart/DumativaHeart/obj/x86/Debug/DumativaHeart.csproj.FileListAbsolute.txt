@@ -1,0 +1,56 @@
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\VideoIntro.wmv
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\downbeat.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\escurecida.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\filtro vermelho.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\follow_your_heart.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\fundoControl.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\fundoGame.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\fundoGameOver.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\fundoMenu.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Heart.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\heart_bar.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\icon.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\particulaLinha.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\reading.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\tracinho.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\upbeat.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\VideoIntro.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Sfx\Button01.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Sfx\Button02.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Sfx\Button03.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Sfx\Tap1.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Sfx\Tap2.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Caution Flow.wma
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Caution Flow.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Coma.wma
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Coma.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Heart Chord.wma
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Heart Chord.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Irregular Rhythm.wma
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Irregular Rhythm.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Lost Memories.wma
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Lost Memories.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Memories.wma
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\Memories.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\No Answer.wma
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Content\Songs\No Answer.xnb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Game1.exe
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\obj\x86\Debug\Game1.exe
+C:\Users\hans\Documents\Visual Studio 2012\Projects\Game1\DumativaHeart\obj\x86\Debug\Game1.pdb
